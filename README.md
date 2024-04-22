@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhai Matta</h1>
-<h3 align="center">A passionate Web3 fullstack developer from India</h3>
+<h3 align="center">A passionate Web3 fullstack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mari0-0&label=Profile%20views&color=0e75b6&style=flat" alt="mari0-0" /> </p>
 
