@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mari0-0" alt="mari0-0" /></a> </p>
 
-- 🔭 I’m currently working on [Website Scraper](https://github.com/mari0-0/website-scraper)
+- 🔭 I’m currently working on [NFT Raffle Website]
 
 - 🌱 I’m currently learning **Blockchain**
 
